@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Rafi Aditya — Aditonomy</title>
-  <desc id="desc">Machine learning, language, and web. Selected work and team projects by mrafi-aditya.</desc>
+  <desc id="desc">Data analysis, machine learning, and practical applications. Selected work and team projects by mrafi-aditya.</desc>
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#66e0cb"/><stop offset="1" stop-color="#819cff"/></linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dce5ef" stroke-width=".6"/></pattern>
@@ -9,15 +9,15 @@
   <path d="M1 280H1199" stroke="#dce5ef"/>
   <rect x="795" y="2" width="403" height="277" rx="20" fill="url(#grid)" opacity=".6"/>
   <rect x="42" y="40" width="8" height="8" rx="4" fill="#087c76"/>
-  <text x="62" y="48" fill="#087c76" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.5">ADITONOMY / DEVELOPER NOTES</text>
+  <text x="62" y="48" fill="#087c76" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.5">ADITONOMY / DATA &amp; APPLICATIONS</text>
   <text x="42" y="119" fill="#13223a" font-family="'Segoe UI',Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-2">Muhammad Rafi Aditya</text>
-  <text x="44" y="161" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="21">Exploring ideas. Building useful things.</text>
+  <text x="44" y="161" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="21">Working with data. Building useful applications.</text>
   <rect x="43" y="203" width="161" height="32" rx="16" fill="none" stroke="#dce5ef"/>
-  <text x="60" y="224" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="13">MACHINE LEARNING</text>
+  <text x="60" y="224" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="13">DATA ANALYSIS</text>
   <rect x="215" y="203" width="76" height="32" rx="16" fill="none" stroke="#dce5ef"/>
   <text x="238" y="224" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="13">NLP</text>
   <rect x="302" y="203" width="155" height="32" rx="16" fill="none" stroke="#dce5ef"/>
-  <text x="321" y="224" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="13">WEB DEVELOPMENT</text>
+  <text x="321" y="224" fill="#485d77" font-family="'Segoe UI',Arial,sans-serif" font-size="13">PYTHON / SQL</text>
   <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".7">
     <path d="M868 74L951 54L1040 88L1114 147L1060 227L967 241L868 199L840 132Z"/>
     <path d="M868 74L967 145L1040 88M951 54L967 145L1060 227M1114 147L967 145L868 199M840 132L967 145L967 241"/>

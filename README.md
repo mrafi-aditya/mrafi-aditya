@@ -1,13 +1,62 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img src="./assets/profile-dark.svg" alt="Muhammad Rafi Aditya — Aditonomy. Machine learning, NLP, and web development." width="100%">
+  <img src="./assets/profile-dark.svg" alt="Muhammad Rafi Aditya — Aditonomy. Data analysis, machine learning, and practical applications." width="100%">
 </picture>
 
 # Hi, I'm Rafi 👋
 
-I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an Informatics student interested in **machine learning, natural language processing, and web development**. I build research demos and university projects, and collaborate with a team on applications for clients.
+I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an **Informatics graduate from Universitas Gunadarma** with interests in **data analysis, machine learning, and application development**. My academic projects involve preparing and cleaning data with Python, developing and evaluating models, and presenting results through web applications. I also have a foundation in SQL.
+
+I hold the **Ilmuwan Data Madya (Associate Data Scientist)** competency certification from **LSP Universitas Gunadarma (BNSP)**. I enjoy learning independently, solving problems step by step, and collaborating with others.
 
 [Selected projects](#selected-projects) · [In development](#currently-building) · [Collaborations](#collaborations--contributions) · [All repositories](https://github.com/mrafi-aditya?tab=repositories)
+
+## Selected projects
+
+My main academic work in image classification and natural language processing.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Goat Disease Classification</h3>
+      <p><strong>Bachelor's thesis · 2026</strong></p>
+      <p>Prepared image data, applied training-data augmentation, and developed and evaluated an EfficientNetB0 classifier using TensorFlow/Keras. Integrated the model into a Streamlit application to display results from uploaded images.</p>
+      <p><sub>Python · TensorFlow / Keras · Streamlit</sub></p>
+      <a href="https://github.com/mrafi-aditya/web_streamlit_kambing">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Stress Indication Detection with NLP</h3>
+      <p><strong>Scientific writing project · 2025</strong></p>
+      <p>Cleaned and preprocessed Indonesian text from CSV files, applied IndoBERT for stress-indication classification, and presented tables and summaries through Streamlit, with CSV export for further review.</p>
+      <p><sub>Python · pandas · IndoBERT · Streamlit</sub></p>
+      <a href="https://github.com/mrafi-aditya/Stress-Detection-Web-ML">Explore repository →</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>Other coursework — networking and interactive web applications</summary>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / K-Stage Hub</h3>
+      <p>A K-pop fan community project with TCP file uploads, UDP video streaming, and chat, built for a networking course.</p>
+      <p><sub>Python · Streamlit · TCP / UDP · Docker</sub></p>
+      <a href="https://github.com/mrafi-aditya/netstream_web_uas">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / Movase</h3>
+      <p>An interactive 3D web project built for computer graphics coursework.</p>
+      <p><sub>JavaScript · HTML · glTF</sub></p>
+      <a href="https://github.com/mrafi-aditya/Web-Based-Simple-Interactive">Explore repository →</a> · <a href="https://movase-one.vercel.app">Web demo ↗</a>
+    </td>
+  </tr>
+</table>
+
+**More coursework:** [MovieLibrary — React & PHP](https://github.com/mrafi-aditya/PWEB_Ujian) · [TCP / UDP socket programming](https://github.com/mrafi-aditya/PJAR_Socket-UDP-dan-TCP) · [3D model & shadows](https://github.com/mrafi-aditya/Web-Based-Simple-Model-Shadow)
+
+</details>
 
 ## Currently building
 
@@ -32,42 +81,10 @@ Two ongoing team projects. **My role: collaborator / contributor.** Both are **i
   </tr>
 </table>
 
-## Selected projects
+## Education & certification
 
-A few projects from my work in applied ML, networking, and interactive web experiences.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Goat Disease Classification</h3>
-      <p>A research demo for image-based classification of goat diseases, with an EfficientNetB0 model and a Streamlit interface.</p>
-      <p><sub>Python · TensorFlow / Keras · Streamlit</sub></p>
-      <a href="https://github.com/mrafi-aditya/web_streamlit_kambing">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Stress Detection with NLP</h3>
-      <p>A Streamlit project exploring text-based stress detection with machine learning and language models.</p>
-      <p><sub>Python · PyTorch · Transformers · Streamlit</sub></p>
-      <a href="https://github.com/mrafi-aditya/Stress-Detection-Web-ML">Explore repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / K-Stage Hub</h3>
-      <p>A K-pop fan community project with TCP file uploads, UDP video streaming, and chat, built for a networking course.</p>
-      <p><sub>Python · Streamlit · TCP / UDP · Docker</sub></p>
-      <a href="https://github.com/mrafi-aditya/netstream_web_uas">Explore repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / Movase</h3>
-      <p>An interactive 3D web project built for computer graphics coursework.</p>
-      <p><sub>JavaScript · HTML · glTF</sub></p>
-      <a href="https://github.com/mrafi-aditya/Web-Based-Simple-Interactive">Explore repository →</a> · <a href="https://movase-one.vercel.app">Web demo ↗</a>
-    </td>
-  </tr>
-</table>
-
-**More coursework:** [MovieLibrary — React & PHP](https://github.com/mrafi-aditya/PWEB_Ujian) · [TCP / UDP socket programming](https://github.com/mrafi-aditya/PJAR_Socket-UDP-dan-TCP) · [3D model & shadows](https://github.com/mrafi-aditya/Web-Based-Simple-Model-Shadow)
+- **S1 Informatika — Universitas Gunadarma**, 2022–2026. GPA: **3.85 / 4.00**.
+- **Ilmuwan Data Madya (Associate Data Scientist)** — LSP Universitas Gunadarma (BNSP), July 2026–July 2029.
 
 ## Collaborations & contributions
 
@@ -81,9 +98,9 @@ Alongside my own repositories, I work with others on shared projects.
 
 ## Tools I work with
 
-**ML & data** — Python, PyTorch, TensorFlow / Keras, Transformers, NumPy, pandas  
-**Web & applications** — Streamlit, JavaScript / TypeScript, React, SvelteKit, PHP, Laravel  
-**Supporting tools** — Git, Docker, PostgreSQL, MySQL, TCP / UDP sockets
+**Data preparation & analysis** — Python, pandas, NumPy, foundational SQL, data cleaning, text preprocessing, CSV processing.<br>
+**Models & applications** — Machine learning, NLP, model evaluation, TensorFlow / Keras, PyTorch, Streamlit.<br>
+**Collaboration & development** — Git / GitHub, structured problem solving, teamwork, communication, and independent learning.
 
 ---
 
