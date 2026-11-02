@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Rafi Aditya — Aditonomy</title>
+  <desc id="desc">Machine learning, language, and web. Selected work and team projects by mrafi-aditya.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#66e0cb"/><stop offset="1" stop-color="#819cff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#22324a" stroke-width=".6"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="22" fill="#0b1220" stroke="#22324a"/>
+  <path d="M1 280H1199" stroke="#22324a"/>
+  <rect x="795" y="2" width="403" height="277" rx="20" fill="url(#grid)" opacity=".6"/>
+  <rect x="42" y="40" width="8" height="8" rx="4" fill="#66e0cb"/>
+  <text x="62" y="48" fill="#66e0cb" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.5">ADITONOMY / DEVELOPER NOTES</text>
+  <text x="42" y="119" fill="#f1f6fd" font-family="'Segoe UI',Arial,sans-serif" font-size="49" font-weight="700" letter-spacing="-2">Muhammad Rafi Aditya</text>
+  <text x="44" y="161" fill="#a7b8d0" font-family="'Segoe UI',Arial,sans-serif" font-size="21">Exploring ideas. Building useful things.</text>
+  <rect x="43" y="203" width="161" height="32" rx="16" fill="none" stroke="#22324a"/>
+  <text x="60" y="224" fill="#a7b8d0" font-family="'Segoe UI',Arial,sans-serif" font-size="13">MACHINE LEARNING</text>
+  <rect x="215" y="203" width="76" height="32" rx="16" fill="none" stroke="#22324a"/>
+  <text x="238" y="224" fill="#a7b8d0" font-family="'Segoe UI',Arial,sans-serif" font-size="13">NLP</text>
+  <rect x="302" y="203" width="155" height="32" rx="16" fill="none" stroke="#22324a"/>
+  <text x="321" y="224" fill="#a7b8d0" font-family="'Segoe UI',Arial,sans-serif" font-size="13">WEB DEVELOPMENT</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".7">
+    <path d="M868 74L951 54L1040 88L1114 147L1060 227L967 241L868 199L840 132Z"/>
+    <path d="M868 74L967 145L1040 88M951 54L967 145L1060 227M1114 147L967 145L868 199M840 132L967 145L967 241"/>
+  </g>
+  <circle cx="967" cy="145" r="32" fill="#0b1220" stroke="url(#accent)" stroke-width="2"/>
+  <text x="950" y="153" fill="#66e0cb" font-family="Consolas,monospace" font-size="22">&lt;/&gt;</text>
+  <g fill="#0b1220" stroke="url(#accent)" stroke-width="2">
+    <circle cx="868" cy="74" r="6"/><circle cx="951" cy="54" r="5"/>
+    <circle cx="1040" cy="88" r="7"/><circle cx="1114" cy="147" r="5"/>
+    <circle cx="1060" cy="227" r="7"/><circle cx="967" cy="241" r="5"/>
+    <circle cx="868" cy="199" r="7"/><circle cx="840" cy="132" r="5"/>
+  </g>
+  <text x="43" y="304" fill="#a7b8d0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="1.4">@MRAFI-ADITYA</text>
+  <text x="1147" y="304" text-anchor="end" fill="#a7b8d0" font-family="'Segoe UI',Arial,sans-serif" font-size="12" letter-spacing="1.4">SELECTED WORK &amp; COLLABORATIONS</text>
+</svg>
