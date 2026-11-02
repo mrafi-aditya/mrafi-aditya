@@ -1,8 +1,8 @@
 # Hi, I'm Adit 👋
 
-I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an **Informatics graduate from Universitas Gunadarma** with interests in **data analysis, machine learning, and application development**. My academic projects involve preparing and cleaning data with Python, developing and evaluating models, and presenting results through web applications. I also have a foundation in SQL.
+I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an Informatics graduate from Universitas Gunadarma interested in **data analysis, machine learning, and application development**.
 
-I hold the **Ilmuwan Data Madya (Associate Data Scientist)** competency certification from **LSP Universitas Gunadarma (BNSP)**. I enjoy learning independently, solving problems step by step, and collaborating with others.
+I enjoy learning through projects, solving practical problems, and collaborating with others. Here you'll find a mix of my own work and ongoing team projects.
 
 [Selected projects](#selected-projects) · [In development](#currently-building) · [Collaborations](#collaborations--contributions) · [All repositories](https://github.com/mrafi-aditya?tab=repositories)
 
@@ -75,11 +75,6 @@ Two ongoing team projects. **My role: collaborator / contributor.** Both are **i
     </td>
   </tr>
 </table>
-
-## Education & certification
-
-- **S1 Informatika — Universitas Gunadarma**, 2022–2026. GPA: **3.85 / 4.00**.
-- **Ilmuwan Data Madya (Associate Data Scientist)** — LSP Universitas Gunadarma (BNSP), July 2026–July 2029.
 
 ## Collaborations & contributions
 
