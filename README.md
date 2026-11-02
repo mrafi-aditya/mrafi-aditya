@@ -1,9 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img src="./assets/profile-dark.svg" alt="Muhammad Rafi Aditya — Aditonomy. Data analysis, machine learning, and practical applications." width="100%">
-</picture>
-
-# Hi, I'm Rafi 👋
+# Hi, I'm Adit 👋
 
 I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an **Informatics graduate from Universitas Gunadarma** with interests in **data analysis, machine learning, and application development**. My academic projects involve preparing and cleaning data with Python, developing and evaluating models, and presenting results through web applications. I also have a foundation in SQL.
 
