@@ -4,71 +4,81 @@ I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an Informatics gra
 
 I enjoy learning through projects, solving practical problems, and collaborating with others. Here you'll find a mix of my own work and ongoing team projects.
 
-[Selected projects](#selected-projects) · [In development](#currently-building) · [Collaborations](#collaborations--contributions) · [All repositories](https://github.com/mrafi-aditya?tab=repositories)
+[Selected projects](#selected-projects) · [In development](#currently-building) · [Collaborations](#collaborations--contributions) · [Links](#links)
 
 ## Selected projects
 
-My main academic work in image classification and natural language processing.
+Academic work across machine learning, networking, and interactive web applications. Each repository explains its implementation, setup, and current scope.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>01 / Goat Disease Classification</h3>
-      <p><strong>Bachelor's thesis · 2026</strong></p>
-      <p>Prepared image data, applied training-data augmentation, and developed and evaluated an EfficientNetB0 classifier using TensorFlow/Keras. Integrated the model into a Streamlit application to display results from uploaded images.</p>
+      <p><strong>Computer vision · Bachelor's thesis · 2026</strong></p>
+      <p>An image-classification application that connects an EfficientNet-B0 model to a camera and upload interface.</p>
+      <p><strong>My work:</strong> model integration, image preprocessing, and a Streamlit interface showing class probabilities and confidence warnings.</p>
       <p><sub>Python · TensorFlow / Keras · Streamlit</sub></p>
       <a href="https://github.com/mrafi-aditya/web_streamlit_kambing">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / Stress Indication Detection with NLP</h3>
-      <p><strong>Scientific writing project · 2025</strong></p>
-      <p>Cleaned and preprocessed Indonesian text from CSV files, applied IndoBERT for stress-indication classification, and presented tables and summaries through Streamlit, with CSV export for further review.</p>
-      <p><sub>Python · pandas · IndoBERT · Streamlit</sub></p>
+      <h3>02 / Stress Indication Detection</h3>
+      <p><strong>NLP · Scientific writing project · 2025</strong></p>
+      <p>A CSV-based application for exploring stress indications in Indonesian-language text using IndoBERT.</p>
+      <p><strong>My work:</strong> text preprocessing, classifier inference, and tables, summaries, and CSV export for reviewing results.</p>
+      <p><sub>Python · pandas · PyTorch · IndoBERT · Streamlit</sub></p>
       <a href="https://github.com/mrafi-aditya/Stress-Detection-Web-ML">Explore repository →</a>
     </td>
   </tr>
-</table>
-
-<details>
-<summary>Other coursework — networking and interactive web applications</summary>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <h3>03 / K-Stage Hub</h3>
-      <p>A K-pop fan community project with TCP file uploads, UDP video streaming, and chat, built for a networking course.</p>
-      <p><sub>Python · Streamlit · TCP / UDP · Docker</sub></p>
+      <p><strong>Networking · Coursework</strong></p>
+      <p>A fan-community application demonstrating TCP file uploads, UDP video-frame delivery, and shared chat.</p>
+      <p><strong>My work:</strong> TCP/UDP service integration, upload workflows, and a Streamlit interface backed by SQLite.</p>
+      <p><sub>Python · Sockets · SQLite · Streamlit · Docker Compose</sub></p>
       <a href="https://github.com/mrafi-aditya/netstream_web_uas">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>04 / Movase</h3>
-      <p>An interactive 3D web project built for computer graphics coursework.</p>
-      <p><sub>JavaScript · HTML · glTF</sub></p>
+      <p><strong>Interactive graphics · Coursework</strong></p>
+      <p>A browser-based 3D scene for exploring a glTF model and moving it by clicking the ground.</p>
+      <p><strong>My work:</strong> scene setup, camera and lighting controls, and click-to-move interaction using Babylon.js.</p>
+      <p><sub>JavaScript · HTML · Babylon.js · glTF</sub></p>
       <a href="https://github.com/mrafi-aditya/Web-Based-Simple-Interactive">Explore repository →</a> · <a href="https://movase-one.vercel.app">Web demo ↗</a>
     </td>
   </tr>
 </table>
 
-**More coursework:** [MovieLibrary — React & PHP](https://github.com/mrafi-aditya/PWEB_Ujian) · [TCP / UDP socket programming](https://github.com/mrafi-aditya/PJAR_Socket-UDP-dan-TCP) · [3D model & shadows](https://github.com/mrafi-aditya/Web-Based-Simple-Model-Shadow)
+<details>
+<summary>Supporting projects and earlier coursework</summary>
+
+| Project | What it explores | Stack |
+|---|---|---|
+| [MovieLibrary](https://github.com/mrafi-aditya/PWEB_Ujian) | Watch-list CRUD through a React interface and PHP JSON API | React · PHP · MySQL |
+| [TCP / UDP Socket Programming](https://github.com/mrafi-aditya/PJAR_Socket-UDP-dan-TCP) | Multi-client chat, commands, file transfer, and logging | Python · Sockets · Threading |
+| [Loading Skripsi](https://github.com/mrafi-aditya/pert_7_la) | A Canvas game with a local score API and leaderboard | JavaScript · Flask · JSON |
+| [3D Lighting & Shadows](https://github.com/mrafi-aditya/Web-Based-Simple-Model-Shadow) | Materials, lighting, camera setup, and ground shadows | Babylon.js · glTF |
+| [Basic 3D Viewer](https://github.com/mrafi-aditya/Web_Based_Simple_Model) | The starting point of the graphics coursework series | Babylon.js · JavaScript |
+| [UDP Client–Server](https://github.com/mrafi-aditya/udp_clientserver) | A small request/reply networking exercise | Python · UDP |
 
 </details>
 
 ## Currently building
 
-Two ongoing team projects. **My role: collaborator / contributor.** Both are **in development** and their source code is private.
+Two ongoing client projects developed with a team. **My role: collaborator / contributor.** Both are **in development** and their source code is private.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Fotomotif</h3>
-      <p><strong>🟡 In development</strong> · Team project</p>
+      <p><strong>In development</strong></p>
       <p>A motorcycle photography marketplace that helps riders discover photos of their bikes.</p>
-      <p><strong>My focus:</strong> visual-search model integration, saved-motor workflows, and checkout/payment flows.</p>
-      <p><sub>SvelteKit · TypeScript · Python · PostgreSQL · Midtrans</sub></p>
+      <p><strong>My focus:</strong> visual-search model integration, saved-motor workflows, and checkout/payment flows using Midtrans Sandbox.</p>
+      <p><sub>SvelteKit · TypeScript · Python · PostgreSQL</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3>Raffseal Dashboard</h3>
-      <p><strong>🟡 In development</strong> · Team project</p>
+      <p><strong>In development</strong></p>
       <p>An internal business dashboard being developed with the Raffseal team.</p>
       <p><strong>My focus:</strong> dashboard workflows, role-based access, and purchase-order document features.</p>
       <p><sub>PHP · Laravel · Filament · Livewire</sub></p>
@@ -78,20 +88,26 @@ Two ongoing team projects. **My role: collaborator / contributor.** Both are **i
 
 ## Collaborations & contributions
 
-Alongside my own repositories, I work with others on shared projects.
+Alongside my own repositories, I contribute to shared projects. These links represent team work; individual tasks vary by project.
 
 | Project | My involvement | Project overview |
-| :--- | :--- | :--- |
-| [Libo](https://github.com/azra-ahmad/libo) | Contributor | A desktop library management application using Java Swing, Spring Boot, and MySQL. |
-| [Katalog Film](https://github.com/azra-ahmad/katalog-film) | Collaborator | A movie catalog and admin interface using PHP and CodeIgniter. |
-| [Klinik Kecantikan](https://github.com/Wassabie/klinik_kecantikan) | Collaborator | A PHP website project for a beauty clinic. |
+|---|---|---|
+| [Libo](https://github.com/azra-ahmad/libo) | Contributor | Desktop library management with Java Swing and Spring Boot. |
+| [Katalog Film](https://github.com/azra-ahmad/katalog-film) | Collaborator | A movie catalog and admin interface built with PHP and CodeIgniter. |
+| [Klinik Kecantikan](https://github.com/Wassabie/klinik_kecantikan) | Collaborator | A PHP clinic website with booking and admin workflows. |
 
-## Tools I work with
+## Technical skills
 
-**Data preparation & analysis** — Python, pandas, NumPy, foundational SQL, data cleaning, text preprocessing, CSV processing.<br>
-**Models & applications** — Machine learning, NLP, model evaluation, TensorFlow / Keras, PyTorch, Streamlit.<br>
-**Collaboration & development** — Git / GitHub, structured problem solving, teamwork, communication, and independent learning.
+Tools used across the projects above, with ongoing learning in each area.
 
----
+| Area | Technologies |
+|---|---|
+| Languages | Python · JavaScript · PHP · SQL |
+| Data & machine learning | pandas · NumPy · scikit-learn · TensorFlow / Keras · PyTorch · Transformers |
+| Applications & graphics | Streamlit · Flask · React · Babylon.js |
+| Databases | MySQL · SQLite |
+| Development | Git / GitHub · Python sockets · Docker Compose |
 
-<p align="center"><sub>Learning through projects, building with a team, and documenting the process.</sub></p>
+## Links
+
+[GitHub repositories](https://github.com/mrafi-aditya?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mrafi-aditya/)
