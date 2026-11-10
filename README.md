@@ -26,7 +26,7 @@ Individual and team projects across machine learning, networking, and applicatio
       <p>A CSV-based application for exploring stress indications in Indonesian-language text using IndoBERT.</p>
       <p><strong>My work:</strong> text preprocessing, classifier inference, and tables, summaries, and CSV export for reviewing results.</p>
       <p><sub>Python · pandas · PyTorch · IndoBERT · Streamlit</sub></p>
-      <a href="https://github.com/mrafi-aditya/Stress-Detection-Web-ML">Explore repository →</a>
+      <p><sub>Private repository</sub></p>
     </td>
   </tr>
   <tr>
