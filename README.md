@@ -2,13 +2,13 @@
 
 I'm **Muhammad Rafi Aditya**, also known as **Aditonomy** — an Informatics graduate from Universitas Gunadarma interested in **data analysis, machine learning, and application development**.
 
-I enjoy learning through projects, solving practical problems, and collaborating with others. Here you'll find a mix of my own work and ongoing team projects.
+I enjoy learning through projects and solving practical problems. This portfolio includes individual work and applications I've helped build as part of a team.
 
-[Selected projects](#selected-projects) · [In development](#currently-building) · [Collaborations](#collaborations--contributions) · [Links](#links)
+[Selected projects](#selected-projects) · [In development](#currently-building) · [Links](#links)
 
 ## Selected projects
 
-Academic work across machine learning, networking, and interactive web applications. Each repository explains its implementation, setup, and current scope.
+Individual and team projects across machine learning, networking, and application development.
 
 <table>
   <tr>
@@ -47,6 +47,38 @@ Academic work across machine learning, networking, and interactive web applicati
       <a href="https://github.com/mrafi-aditya/Web-Based-Simple-Interactive">Explore repository →</a> · <a href="https://movase-one.vercel.app">Web demo ↗</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 / Kedai Djanggo</h3>
+      <p><strong>Team project · Food ordering</strong></p>
+      <p>I worked on this QR ordering system with the team. Customers can browse the menu, add items to their cart, and pay via Midtrans.</p>
+      <p><sub>Laravel · Blade · Midtrans</sub></p>
+      <a href="https://github.com/azra-ahmad/kedai-djanggo">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 / Libo</h3>
+      <p><strong>Team project · Desktop application</strong></p>
+      <p>I worked with the team on a library management app for cataloging books and tracking loans.</p>
+      <p><sub>Java Swing · Spring Boot · MySQL</sub></p>
+      <a href="https://github.com/azra-ahmad/libo">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>07 / Katalog Film</h3>
+      <p><strong>Team project · Multimedia coursework</strong></p>
+      <p>I worked with the team on a public movie catalog with film detail pages and an admin interface for managing entries.</p>
+      <p><sub>PHP · CodeIgniter</sub></p>
+      <a href="https://github.com/azra-ahmad/katalog-film">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>08 / Klinik Kecantikan</h3>
+      <p><strong>Team project · Web application</strong></p>
+      <p>I worked with the team on a clinic website with appointment booking and an admin interface.</p>
+      <p><sub>PHP</sub></p>
+      <a href="https://github.com/Wassabie/klinik_kecantikan">Explore repository →</a>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -65,7 +97,7 @@ Academic work across machine learning, networking, and interactive web applicati
 
 ## Currently building
 
-Two ongoing client projects developed with a team. **My role: collaborator / contributor.** Both are **in development** and their source code is private.
+I'm working on these client projects as part of their development teams. Both are **in development** and their source code is private.
 
 <table>
   <tr>
@@ -85,16 +117,6 @@ Two ongoing client projects developed with a team. **My role: collaborator / con
     </td>
   </tr>
 </table>
-
-## Collaborations & contributions
-
-Alongside my own repositories, I contribute to shared projects. These links represent team work; individual tasks vary by project.
-
-| Project | My involvement | Project overview |
-|---|---|---|
-| [Libo](https://github.com/azra-ahmad/libo) | Contributor | Desktop library management with Java Swing and Spring Boot. |
-| [Katalog Film](https://github.com/azra-ahmad/katalog-film) | Collaborator | A movie catalog and admin interface built with PHP and CodeIgniter. |
-| [Klinik Kecantikan](https://github.com/Wassabie/klinik_kecantikan) | Collaborator | A PHP clinic website with booking and admin workflows. |
 
 ## Technical skills
 
