@@ -18,7 +18,7 @@ Individual and team projects across machine learning, networking, and applicatio
       <p>An image-classification application that connects an EfficientNet-B0 model to a camera and upload interface.</p>
       <p><strong>My work:</strong> model integration, image preprocessing, and a Streamlit interface showing class probabilities and confidence warnings.</p>
       <p><sub>Python · TensorFlow / Keras · Streamlit</sub></p>
-      <a href="https://github.com/mrafi-aditya/web_streamlit_kambing">Explore repository →</a>
+      <a href="https://github.com/mrafi-aditya/goat-disease-classifier">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>02 / Stress Indication Detection</h3>
@@ -36,7 +36,7 @@ Individual and team projects across machine learning, networking, and applicatio
       <p>A fan-community application demonstrating TCP file uploads, UDP video-frame delivery, and shared chat.</p>
       <p><strong>My work:</strong> TCP/UDP service integration, upload workflows, and a Streamlit interface backed by SQLite.</p>
       <p><sub>Python · Sockets · SQLite · Streamlit · Docker Compose</sub></p>
-      <a href="https://github.com/mrafi-aditya/netstream_web_uas">Explore repository →</a>
+      <a href="https://github.com/mrafi-aditya/k-stage-hub">Explore repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>04 / Movase</h3>
@@ -44,7 +44,7 @@ Individual and team projects across machine learning, networking, and applicatio
       <p>A browser-based 3D scene for exploring a glTF model and moving it by clicking the ground.</p>
       <p><strong>My work:</strong> scene setup, camera and lighting controls, and click-to-move interaction using Babylon.js.</p>
       <p><sub>JavaScript · HTML · Babylon.js · glTF</sub></p>
-      <a href="https://github.com/mrafi-aditya/Web-Based-Simple-Interactive">Explore repository →</a> · <a href="https://movase-one.vercel.app">Web demo ↗</a>
+      <a href="https://github.com/mrafi-aditya/movase-3d">Explore repository →</a> · <a href="https://movase-one.vercel.app">Web demo ↗</a>
     </td>
   </tr>
   <tr>
@@ -86,9 +86,9 @@ Individual and team projects across machine learning, networking, and applicatio
 
 | Project | What it explores | Stack |
 |---|---|---|
-| [MovieLibrary](https://github.com/mrafi-aditya/PWEB_Ujian) | Watch-list CRUD through a React interface and PHP JSON API | React · PHP · MySQL |
-| [TCP / UDP Socket Programming](https://github.com/mrafi-aditya/PJAR_Socket-UDP-dan-TCP) | Multi-client chat, commands, file transfer, and logging | Python · Sockets · Threading |
-| [Loading Skripsi](https://github.com/mrafi-aditya/pert_7_la) | A Canvas game with a local score API and leaderboard | JavaScript · Flask · JSON |
+| [MovieLibrary](https://github.com/mrafi-aditya/movielibrary-watchlist) | Watch-list CRUD through a React interface and PHP JSON API | React · PHP · MySQL |
+| [TCP / UDP Socket Programming](https://github.com/mrafi-aditya/tcp-udp-socket-lab) | Multi-client chat, commands, file transfer, and logging | Python · Sockets · Threading |
+| [Loading Skripsi](https://github.com/mrafi-aditya/loading-skripsi) | A Canvas game with a local score API and leaderboard | JavaScript · Flask · JSON |
 | [3D Lighting & Shadows](https://github.com/mrafi-aditya/Web-Based-Simple-Model-Shadow) | Materials, lighting, camera setup, and ground shadows | Babylon.js · glTF |
 | [Basic 3D Viewer](https://github.com/mrafi-aditya/Web_Based_Simple_Model) | The starting point of the graphics coursework series | Babylon.js · JavaScript |
 | [UDP Client–Server](https://github.com/mrafi-aditya/udp_clientserver) | A small request/reply networking exercise | Python · UDP |
